@@ -8,6 +8,7 @@ debug-profile.json
 # Временные папки
 .cache/
 .fabric/
+.mods/
 logs/
 downloads/
 screenshots/

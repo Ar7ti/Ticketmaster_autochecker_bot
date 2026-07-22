@@ -1,10 +1,11 @@
-downloads/
-logs/
-saves/
-screenshots/
-server-resource-packs/
-
-command_history.txt
+# Личные данные
 options.txt
-realms_persistence.json
 usercache.json
+realms_persistence.json
+
+# Временные папки
+logs/
+downloads/
+screenshots/
+saves/
+server-resource-packs/

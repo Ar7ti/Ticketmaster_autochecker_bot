@@ -1,13 +1,16 @@
 # Личные данные
 options.txt
+command_history.txt
 usercache.json
 realms_persistence.json
+debug-profile.json
 
 # Временные папки
+.cache/
+.fabric/
 logs/
 downloads/
 screenshots/
 saves/
 server-resource-packs/
-config/
-saves/
+local/

@@ -1,12 +1,22 @@
-coremods/
-downloads/
-logs/
-saves/
-screenshots/
-server-resources-packs/
-texturespacks/
-saves/
-command_history.txt
-options.txt
-realms_persistence.json
-usercache.json
+# Не игнорировать сам .gitignore
+!.gitignore
+
+# Нужные папки
+!mods/
+!config/
+!defaultconfigs/
+!kubejs/
+!resourcepacks/
+!shaderpacks/
+
+# Разрешить содержимое этих папок
+!mods/**
+!config/**
+!defaultconfigs/**
+!kubejs/**
+!resourcepacks/**
+!shaderpacks/**
+
+# Нужные отдельные файлы
+!README.md
+!icon.png

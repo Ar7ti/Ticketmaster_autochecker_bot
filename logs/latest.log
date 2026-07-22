@@ -1,0 +1,188 @@
+[15:17:44] [Datafixer Bootstrap #0/INFO]: 295 Datafixer optimizations took 180 milliseconds
+[15:17:46] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[15:17:46] [Render thread/INFO]: Setting user: _Ar7ti_
+[15:17:46] [Render thread/INFO]: Backend library: LWJGL version 3.4.1+2
+[15:17:46] [Render thread/INFO]: Using graphics backend OpenGL, using drivers: 3.3.0 NVIDIA 610.47
+[15:17:46] [Render thread/INFO]: Using graphics device: NVIDIA GeForce RTX 4070 SUPER/PCIe/SSE2 (NVIDIA Corporation)
+[15:17:46] [Render thread/INFO]: Using graphics device extensions: GL_ARB_multi_draw_indirect, GL_ARB_buffer_storage, GL_ARB_shader_draw_parameters, GL_ARB_base_instance, GL_KHR_debug, GL_ARB_draw_indirect, GL_ARB_clip_control, GL_ARB_vertex_attrib_binding, GL_ARB_direct_state_access, GL_EXT_texture_filter_anisotropic
+[15:17:47] [Render thread/INFO]: Reloading ResourceManager: vanilla
+[15:17:47] [Worker-Main-15/INFO]: Found unifont_all_no_pua-17.0.01.hex, loading
+[15:17:47] [Worker-Main-12/INFO]: Found unifont_pua-17.0.01.hex, loading
+[15:17:47] [Worker-Main-7/INFO]: Found unifont_jp_patch-17.0.01.hex, loading
+[15:17:48] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (PRO X 2 LIGHTSPEED)
+[15:17:48] [Render thread/INFO]: Sound engine started
+[15:17:48] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[15:17:48] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/decorated_pot.png-atlas
+[15:17:48] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/armor_trims.png-atlas
+[15:17:48] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[15:17:48] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/shield_patterns.png-atlas
+[15:17:48] [Render thread/INFO]: Created: 2048x2048x4 minecraft:textures/atlas/blocks.png-atlas
+[15:17:48] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/chest.png-atlas
+[15:17:48] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/celestials.png-atlas
+[15:17:48] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/banner_patterns.png-atlas
+[15:17:48] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/items.png-atlas
+[15:17:48] [Render thread/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/gui.png-atlas
+[15:17:48] [Render thread/INFO]: Created: 128x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[15:17:48] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/shulker_boxes.png-atlas
+[15:18:12] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (PRO X 2 LIGHTSPEED)
+[15:18:12] [Render thread/INFO]: Sound engine started
+[15:18:13] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Steam Streaming Microphone)
+[15:18:13] [Render thread/INFO]: Sound engine started
+[15:18:13] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Steam Streaming Speakers)
+[15:18:13] [Render thread/INFO]: Sound engine started
+[15:18:13] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Realtek Digital Output (Realtek(R) Audio)
+[15:18:13] [Render thread/INFO]: Sound engine started
+[15:18:14] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on GS27Q X (NVIDIA High Definition Audio)
+[15:18:14] [Render thread/INFO]: Sound engine started
+[15:18:14] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (PRO X 2 LIGHTSPEED)
+[15:18:14] [Render thread/INFO]: Sound engine started
+[15:18:15] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (PRO X 2 LIGHTSPEED)
+[15:18:15] [Render thread/INFO]: Sound engine started
+[15:18:29] [Render thread/INFO]: Loaded 1585 recipes
+[15:18:29] [Render thread/INFO]: Loaded 1688 advancements
+[15:18:44] [Server thread/INFO]: Starting integrated minecraft server version 26.2
+[15:18:44] [Server thread/INFO]: Generating keypair
+[15:18:44] [Server thread/INFO]: Selecting global world spawn...
+[15:18:45] [Server thread/INFO]: Loading 0 persistent chunks...
+[15:18:45] [Server thread/INFO]: Preparing spawn area: 16%
+[15:18:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[15:18:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[15:18:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[15:18:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:18:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:18:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:18:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:18:46] [Server thread/INFO]: Loading 47 chunks for player spawn...
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 16%
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 16%
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 16%
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 16%
+[15:18:47] [Server thread/INFO]: Preparing spawn area: 57%
+[15:18:47] [Server thread/INFO]: Time elapsed: 2746 ms
+[15:18:47] [Server thread/INFO]: _Ar7ti_[local:E:bf074800] logged in with entity id 10 at (-150.5, 77.0, -128.5)
+[15:18:47] [Server thread/INFO]: _Ar7ti_ joined the game
+[15:18:47] [Render thread/INFO]: Loaded 2 advancements
+[15:18:47] [Server thread/INFO]: Changing view distance to 16, from 10
+[15:18:47] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[15:18:47] [Render thread/INFO]: Resizing Dynamic Transforms UBO, capacity limit of 2 reached during a single frame. New capacity will be 4.
+[15:18:47] [Render thread/INFO]: Resizing Dynamic Transforms UBO, capacity limit of 4 reached during a single frame. New capacity will be 8.
+[15:18:47] [Render thread/INFO]: Resizing Dynamic Transforms UBO, capacity limit of 8 reached during a single frame. New capacity will be 16.
+[15:18:47] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 2 reached during a single frame. New capacity will be 4.
+[15:18:47] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 4 reached during a single frame. New capacity will be 8.
+[15:18:47] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 8 reached during a single frame. New capacity will be 16.
+[15:18:48] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 16 reached during a single frame. New capacity will be 32.
+[15:18:48] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 32 reached during a single frame. New capacity will be 64.
+[15:18:49] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 64 reached during a single frame. New capacity will be 128.
+[15:18:50] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 128 reached during a single frame. New capacity will be 256.
+[15:18:52] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 256 reached during a single frame. New capacity will be 512.
+[15:18:56] [Server thread/INFO]: Saving and pausing game...
+[15:18:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[15:18:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[15:18:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[15:19:02] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 512 reached during a single frame. New capacity will be 1024.
+[15:19:03] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 1024 reached during a single frame. New capacity will be 2048.
+[15:19:18] [Server thread/INFO]: Saving and pausing game...
+[15:19:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[15:19:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[15:19:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[15:19:43] [Server thread/INFO]: [_Ar7ti_: Set own game mode to Creative Mode]
+[15:19:43] [Render thread/INFO]: [System] [CHAT] Set own game mode to Creative Mode
+[15:19:56] [Server thread/INFO]: Saving and pausing game...
+[15:19:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[15:19:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[15:19:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[15:20:02] [Server thread/INFO]: Saving and pausing game...
+[15:20:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[15:20:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[15:20:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[15:20:03] [Server thread/INFO]: Stopping server
+[15:20:03] [Server thread/INFO]: Saving players
+[15:20:03] [Server thread/INFO]: _Ar7ti_ lost connection: Disconnected
+[15:20:03] [Server thread/INFO]: _Ar7ti_ left the game
+[15:20:03] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[15:20:03] [Server thread/INFO]: Saving worlds
+[15:20:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[15:20:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[15:20:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[15:20:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:20:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:20:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:20:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:20:08] [Render thread/INFO]: Deleting level New World
+[15:20:08] [Render thread/INFO]: Attempt 1...
+[15:20:08] [Render thread/INFO]: Loaded 1585 recipes
+[15:20:08] [Render thread/INFO]: Loaded 1688 advancements
+[15:20:19] [Server thread/INFO]: Starting integrated minecraft server version 26.2
+[15:20:19] [Server thread/INFO]: Generating keypair
+[15:20:19] [Server thread/INFO]: Selecting global world spawn...
+[15:20:19] [Server thread/INFO]: Loading 0 persistent chunks...
+[15:20:19] [Server thread/INFO]: Preparing spawn area: 16%
+[15:20:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[15:20:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[15:20:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[15:20:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:20:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:20:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:20:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:20:20] [Server thread/INFO]: Loading 47 chunks for player spawn...
+[15:20:20] [Server thread/INFO]: Preparing spawn area: 16%
+[15:20:20] [Server thread/INFO]: Preparing spawn area: 16%
+[15:20:20] [Server thread/INFO]: Preparing spawn area: 29%
+[15:20:21] [Server thread/INFO]: Time elapsed: 1974 ms
+[15:20:21] [Server thread/INFO]: _Ar7ti_[local:E:c6641af1] logged in with entity id 1770 at (5.5, 103.0, -6.5)
+[15:20:21] [Server thread/INFO]: _Ar7ti_ joined the game
+[15:20:21] [Server thread/INFO]: Changing view distance to 16, from 10
+[15:20:21] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[15:20:21] [Render thread/INFO]: Loaded 2 advancements
+[15:20:26] [Server thread/INFO]: [_Ar7ti_: Set own game mode to Creative Mode]
+[15:20:26] [Render thread/INFO]: [System] [CHAT] Set own game mode to Creative Mode
+[15:21:00] [Server thread/INFO]: Saving and pausing game...
+[15:21:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[15:21:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[15:21:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[15:22:13] [Worker-Main-4/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [-70, 16] while generating chunk [-68, 16] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
+[15:22:13] [Worker-Main-4/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [-70, 16] while generating chunk [-68, 16] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
+[15:22:13] [Worker-Main-4/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [-70, 16] while generating chunk [-68, 16] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
+[15:22:13] [Worker-Main-4/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [-70, 16] while generating chunk [-68, 16] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
+[15:22:13] [Worker-Main-4/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [-70, 16] while generating chunk [-68, 16] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
+[15:22:13] [Worker-Main-4/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [-70, 16] while generating chunk [-68, 16] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
+[15:22:13] [Worker-Main-4/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [-70, 16] while generating chunk [-68, 16] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
+[15:22:13] [Worker-Main-4/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [-70, 16] while generating chunk [-68, 16] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
+[15:22:13] [Worker-Main-4/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [-70, 16] while generating chunk [-68, 16] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
+[15:22:13] [Worker-Main-4/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [-70, 16] while generating chunk [-68, 16] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
+[15:22:13] [Worker-Main-4/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [-70, 16] while generating chunk [-68, 16] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
+[15:22:13] [Worker-Main-4/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [-70, 16] while generating chunk [-68, 16] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
+[15:22:13] [Worker-Main-4/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [-70, 16] while generating chunk [-68, 16] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
+[15:22:13] [Worker-Main-4/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [-70, 16] while generating chunk [-68, 16] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
+[15:22:13] [Worker-Main-4/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [-70, 16] while generating chunk [-68, 16] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
+[15:22:13] [Worker-Main-4/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [-70, 16] while generating chunk [-68, 16] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
+[15:22:13] [Worker-Main-4/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [-70, 16] while generating chunk [-68, 16] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
+[15:22:13] [Worker-Main-4/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [-70, 16] while generating chunk [-68, 16] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
+[15:22:13] [Worker-Main-4/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [-70, 16] while generating chunk [-68, 16] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
+[15:22:13] [Worker-Main-4/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [-70, 16] while generating chunk [-68, 16] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
+[15:22:13] [Worker-Main-4/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [-70, 16] while generating chunk [-68, 16] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
+[15:22:13] [Worker-Main-4/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [-70, 16] while generating chunk [-68, 16] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
+[15:22:13] [Worker-Main-4/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [-70, 16] while generating chunk [-68, 16] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
+[15:22:13] [Worker-Main-4/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [-70, 16] while generating chunk [-68, 16] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
+[15:22:13] [Worker-Main-4/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [-70, 16] while generating chunk [-68, 16] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
+[15:22:13] [Worker-Main-4/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [-70, 16] while generating chunk [-68, 16] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
+[15:22:13] [Worker-Main-4/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [-70, 16] while generating chunk [-68, 16] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
+[15:22:15] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 2048 reached during a single frame. New capacity will be 4096.
+[15:23:10] [Server thread/INFO]: Saving and pausing game...
+[15:23:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[15:23:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[15:23:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[15:23:11] [Server thread/INFO]: Stopping server
+[15:23:11] [Server thread/INFO]: Saving players
+[15:23:11] [Server thread/INFO]: _Ar7ti_ lost connection: Disconnected
+[15:23:11] [Server thread/INFO]: _Ar7ti_ left the game
+[15:23:11] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[15:23:11] [Server thread/INFO]: Saving worlds
+[15:23:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[15:23:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[15:23:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[15:23:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:23:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:23:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:23:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:23:13] [Render thread/INFO]: Stopping!

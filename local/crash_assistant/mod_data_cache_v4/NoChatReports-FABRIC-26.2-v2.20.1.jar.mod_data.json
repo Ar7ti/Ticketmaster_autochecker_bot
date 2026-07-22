@@ -1,0 +1,1 @@
+{"jarName":"NoChatReports-FABRIC-26.2-v2.20.1.jar","modId":"nochatreports","name":"No Chat Reports","version":"26.2-v2.20.1","mixinConfigs":["mixins/fabric/nochatreports-fabric.mixins.json","mixins/common/nochatreports.mixins.json"],"jarJarMods":[],"curseForgeHash":4016556200,"modrinthHash":"0c095e6ee699cb1f5c9732ef632cf93998b1d468"}

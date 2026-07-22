@@ -2,20 +2,20 @@ version = 1
 enableSodiumMenu = true
 dontCull = []
 cloudCulling = true
-signTextCulling = false
+signTextCulling = true
 rainCulling = true
 useBlockStateCulling = true
-useCustomItemFrameRenderer = false
+useCustomItemFrameRenderer = true
 itemFrameMapCulling = true
 useItemFrameLOD = true
-itemFrameLODRange = 128
+itemFrameLODRange = 11
 useItemFrame3FaceCulling = true
-itemFrame3FaceCullingRange = 4.0
+itemFrame3FaceCullingRange = 2.0
 paintingCulling = true
-leavesCullingMode = "CHECK"
+leavesCullingMode = "DEFAULT"
 leavesCullingAmount = 2
-includeMangroveRoots = true
-endGatewayCulling = true
+includeMangroveRoots = false
+endGatewayCulling = false
 useOnModdedBlocksByDefault = true
 
 [modCompatibility]

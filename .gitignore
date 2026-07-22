@@ -1,18 +1,16 @@
-# Личные данные
-options.txt
-command_history.txt
-usercache.json
-realms_persistence.json
-debug-profile.json
-
-# Временные папки
+# Кэш и временные файлы
 .cache/
 .fabric/
-.mods/
 logs/
 downloads/
 screenshots/
 saves/
 server-resource-packs/
 local/
-config/
+
+# Личные настройки
+options.txt
+command_history.txt
+usercache.json
+realms_persistence.json
+debug-profile.json

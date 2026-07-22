@@ -1,2 +1,3 @@
 /gamemode
 /gamemode creative
+/tp _Ar7ti_

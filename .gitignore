@@ -6,7 +6,7 @@ screenshots/
 server-resources-packs/
 shaderpacks/
 texturespacks/
-command_history.txt/
-options.txt/
-realms_persistence.json/
-usercache.json/
+command_history.txt
+options.txt
+realms_persistence.json
+usercache.json

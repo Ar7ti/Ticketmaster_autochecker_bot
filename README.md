@@ -1,13 +1,9 @@
-# TicketBot
+#TicketBot_auto
 
-I’ve been building a ticket monitoring bot that tracks resale listings automatically — and I’m getting ready to open it up to everyone.
+I made a small bot for myself to check resale ticket listings and help me find cheaper tickets for concerts.
 
-The idea is simple: instead of constantly refreshing resale websites and hoping to catch a ticket at the right moment, the bot monitors listings for you and helps you react as soon as something becomes available.
+It’s nothing fancy and I’m not planning to actively develop or maintain it. It just does the job I originally made it for.
 
-It started as a small tool I built for myself, but I quickly realized it could be useful for a lot more people.
+I figured there’s no reason to keep it private, so I’m opening it up for anyone who might find it useful.
 
-Right now I’m focused on improving reliability, making the experience as simple as possible, and preparing it for a public release.
-
-The goal is to turn ticket hunting from hours of manual checking into something fast, automated, and actually convenient.
-
-More updates soon. 🚀
+Use it if you want, ignore it if you don’t. That’s pretty much it.

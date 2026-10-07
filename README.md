@@ -1,4 +1,4 @@
-#TicketBot_auto
+# TicketBot_auto
 
 I made a small bot for myself to check resale ticket listings and help me find cheaper tickets for concerts.
 
